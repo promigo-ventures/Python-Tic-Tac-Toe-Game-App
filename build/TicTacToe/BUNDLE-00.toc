@@ -1,0 +1,3 @@
+([('TicTacToe',
+   '/Users/apple/Documents/PycharmProjects/Tic-Tac-Toe-Game/dist/TicTacToe',
+   'EXECUTABLE')],)
